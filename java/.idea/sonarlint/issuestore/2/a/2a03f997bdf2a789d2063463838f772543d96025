@@ -1,0 +1,19 @@
+
+i
+java:S1192V"SDefine a constant instead of duplicating this literal "Morris Traversal: " 3 times.(çß¼ö
+k
+java:S1192R"UDefine a constant instead of duplicating this literal "Iterative Approach: " 3 times.(§ØØ¥
+*
+java:S1700
+"Rename field "count"(æÕ¿¼
+k
+java:S1149""PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(•£Ç±úÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(»¢Žƒûÿÿÿÿ
+M
+java:S11724"2Remove these unused method parameters "root", "k".(§ôÞàúÿÿÿÿ
+@	java:S106R"+Replace this use of System.out by a logger.(§ØØ¥
+E	java:S106S"+Replace this use of System.out by a logger.(»“ñ—úÿÿÿÿ
+@	java:S106T"+Replace this use of System.out by a logger.(›‡îž
+@	java:S106V"+Replace this use of System.out by a logger.(çß¼ö
+E	java:S106W"+Replace this use of System.out by a logger.(Â°”Æøÿÿÿÿ
+@	java:S106X"+Replace this use of System.out by a logger.(¾žÒ 

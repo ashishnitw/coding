@@ -1,0 +1,21 @@
+
+r
+java:S1149!"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8¶ÚêÎõ1
+r
+java:S11491"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8ì¥¾‹ö1
+L	java:S106&"+Replace this use of System.out by a logger.(¸‡ôúÿÿÿÿ8¸ÚêÎõ1
+[
+java:S18541"9Remove this useless assignment to local variable "stack".(û›şöıÿÿÿÿ8ï¥¾‹ö1
+T
+java:S18540"7Remove this useless assignment to local variable "map".(ääš›8„¾‹ö1
+M
+java:S1172/"+Remove this unused method parameter "nums".(Û¹àüÿÿÿÿ8¸ÚêÎõ1
+E
+java:S14810"(Remove this unused "map" local variable.(ääš›8…¾‹ö1
+L
+java:S14811"*Remove this unused "stack" local variable.(û›şöıÿÿÿÿ8ï¥¾‹ö1
+C
+java:S11683"&Return an empty array instead of null.(¥¹ï8¸ÚêÎõ1
+L	java:S1068"+Replace this use of System.out by a logger.(ˆ¶ÛÅûÿÿÿÿ8¹ÚêÎõ1
+L	java:S1069"+Replace this use of System.out by a logger.(ŸÓ¾¿úÿÿÿÿ8¹ÚêÎõ1
+L	java:S106:"+Replace this use of System.out by a logger.(ôæÃñüÿÿÿÿ8¹ÚêÎõ1

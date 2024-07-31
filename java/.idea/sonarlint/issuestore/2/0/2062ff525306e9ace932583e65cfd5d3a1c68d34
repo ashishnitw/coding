@@ -1,0 +1,7 @@
+
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ8©Ö¡æþ1
+G	java:S106"+Replace this use of System.out by a logger.(ÏÁ³â8ªÖ¡æþ1
+G	java:S106	"+Replace this use of System.out by a logger.(•«·Ê8ªÖ¡æþ1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(é–š†ûÿÿÿÿ8íÃªæþ1

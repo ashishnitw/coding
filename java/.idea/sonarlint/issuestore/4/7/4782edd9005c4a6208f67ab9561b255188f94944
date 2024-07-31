@@ -1,0 +1,29 @@
+
+v
+java:S1104"TMake children a static final constant or non-public and provide accessors if needed.(¢ğêºüÿÿÿÿ8……’ÿ1
+y
+java:S1104"WMake isEndOfWord a static final constant or non-public and provide accessors if needed.(÷›ı¹ıÿÿÿÿ8……’ÿ1
+m
+java:S1104"PMake root a static final constant or non-public and provide accessors if needed.(İËşÃ8ßĞñˆ€2
+Z
+java:S1854$"8Remove this useless assignment to local variable "curr".(›öÀÑøÿÿÿÿ8—…’ÿ1
+T
+java:S1854#"7Remove this useless assignment to local variable "key".(ë‚ä8—…’ÿ1
+L	java:S106 "+Replace this use of System.out by a logger.(ŒüÑÿÿÿÿÿ8—…’ÿ1
+K
+java:S1481$")Remove this unused "curr" local variable.(›öÀÑøÿÿÿÿ8˜…’ÿ1
+O
+java:S1135%"2Complete the task associated to this TODO comment.(…ïœ†8¤Ä•‰€2
+G
+java:S1172("*Remove this unused method parameter "key".(¨­úê8˜…’ÿ1
+O
+java:S1135)"2Complete the task associated to this TODO comment.(…ïœ†8ï•‰€2
+L
+java:S1172-"*Remove this unused method parameter "key".(»–öÿÿÿÿÿ8˜…’ÿ1
+O
+java:S1135."2Complete the task associated to this TODO comment.(…ïœ†8Ÿï•‰€2
+G
+java:S11973"*Move the array designators [] to the type.( ©ğ8˜…’ÿ1
+G	java:S1065"+Replace this use of System.out by a logger.(€ÑÛÏ8™…’ÿ1
+L	java:S1066"+Replace this use of System.out by a logger.(ÂØÚûÿÿÿÿ8™…’ÿ1
+L	java:S1069"+Replace this use of System.out by a logger.(€Õ°Åúÿÿÿÿ8™…’ÿ1

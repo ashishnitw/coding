@@ -1,0 +1,7 @@
+
+L	java:S106	"+Replace this use of System.out by a logger.(Ú ²úÿÿÿÿ8íÉØù1
+G	java:S106"+Replace this use of System.out by a logger.(ŒÑî 8îÉØù1
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÁŞœúÿÿÿÿ8ñÉØù1
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8òÉØù1

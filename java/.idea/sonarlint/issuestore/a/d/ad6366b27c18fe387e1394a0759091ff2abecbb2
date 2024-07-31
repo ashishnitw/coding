@@ -1,0 +1,18 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(”’…ÿ8ó™”õ1
+L	java:S106	"+Replace this use of System.out by a logger.(æëÊêıÿÿÿÿ8ó™”õ1
+G	java:S106
+"+Replace this use of System.out by a logger.(Áµ€ß8ó™”õ1
+L	java:S106"+Replace this use of System.out by a logger.(âé¾ûÿÿÿÿ8ó™”õ1
+V
+java:S3400 "9Remove this method and declare a constant for this value.(”·³›8ó™”õ1
+d
+java:S1172"GRemove these unused method parameters "profits", "weights", "capacity".(ßí¡Ñ8ó™”õ1
+V
+java:S3400%"9Remove this method and declare a constant for this value.(”·³›8ó™”õ1
+i
+java:S1172$"GRemove these unused method parameters "profits", "weights", "capacity".(—ÕµËÿÿÿÿÿ8ó™”õ1
+V
+java:S3400*"9Remove this method and declare a constant for this value.(”·³›8ó™”õ1
+d
+java:S1172)"GRemove these unused method parameters "profits", "weights", "capacity".(¥‚ÁÃ8Ìåš”õ1

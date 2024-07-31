@@ -1,0 +1,12 @@
+
+G	java:S106$"+Replace this use of System.out by a logger.(æ²«8»ÌŠ”ÿ1
+G	java:S1061"+Replace this use of System.out by a logger.(¾õÅ”8¤”ÿ1
+L	java:S1067"+Replace this use of System.out by a logger.(£ÓÿÒüÿÿÿÿ8¤”ÿ1
+G	java:S106B"+Replace this use of System.out by a logger.(²åÅˆ8ôî•”ÿ1
+G	java:S106P"+Replace this use of System.out by a logger.(²åÅˆ8ôî•”ÿ1
+L	java:S106U"+Replace this use of System.out by a logger.(Û³»Šÿÿÿÿÿ8ôî•”ÿ1
+L	java:S106V"+Replace this use of System.out by a logger.(Õİ¹ºşÿÿÿÿ8ŸÑ¥”ÿ1
+D
+java:S1068	"(Remove this unused "curr" private field.(æôşI8ì°›”ÿ1
+I
+java:S1144<"'Remove this unused private "cd" method.(Òğ·øÿÿÿÿ8£“”ÿ1

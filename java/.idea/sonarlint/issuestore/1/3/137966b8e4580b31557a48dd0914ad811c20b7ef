@@ -1,0 +1,11 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®è…¼8¯ò®¦ú1
+r	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±‘–øÿÿÿÿ8¯ò®¦ú1
+c
+java:S1659"ADeclare "dest" and all following declarations on a separate line.(“Ï¹ùÿÿÿÿ8·ò®¦ú1
+R
+java:S1854"5Remove this useless assignment to local variable "V".(®è…¼8¹ò®¦ú1
+C
+java:S1481"&Remove this unused "V" local variable.(®è…¼8¹ò®¦ú1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¼ò®¦ú1

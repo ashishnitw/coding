@@ -1,0 +1,14 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(Åæ°‹úÿÿÿÿ8­ŸÀâÿ1
+L	java:S106"+Replace this use of System.out by a logger.(Âû¯Ğüÿÿÿÿ8®ŸÀâÿ1
+U
+java:S1854%"8Remove this useless assignment to local variable "fast".(ã¿›˜8®ŸÀâÿ1
+U
+java:S1854$"8Remove this useless assignment to local variable "slow".(›ß¡¨8®ŸÀâÿ1
+F
+java:S1481$")Remove this unused "slow" local variable.(›ß¡¨8®ŸÀâÿ1
+F
+java:S1481%")Remove this unused "fast" local variable.(ã¿›˜8®ŸÀâÿ1
+G	java:S1067"+Replace this use of System.out by a logger.(ÁĞÄ¡8¯ŸÀâÿ1
+R
+java:S1144"0Remove this unused private "reverseList" method.(õ£ÛÛıÿÿÿÿ8¯ŸÀâÿ1

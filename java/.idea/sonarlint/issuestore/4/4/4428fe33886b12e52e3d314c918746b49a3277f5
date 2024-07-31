@@ -1,0 +1,9 @@
+
+X	java:S125	"<This block of commented-out lines of code should be removed.(ÎùÁ˜8“îü§ú1
+N
+java:S1197",Move the array designators [][] to the type.(Æ‰ˆîûÿÿÿÿ8ÜŠÏ§ú1
+L	java:S106"+Replace this use of System.out by a logger.(¯ÓÿÂıÿÿÿÿ8ÜŠÏ§ú1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8”îü§ú1
+V
+java:S1128"4Remove this unused import 'java.util.PriorityQueue'.(ÆãÑşøÿÿÿÿ8”îü§ú1

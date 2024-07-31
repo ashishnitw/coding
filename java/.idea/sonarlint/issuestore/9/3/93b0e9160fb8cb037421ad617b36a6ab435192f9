@@ -1,0 +1,11 @@
+
+e
+java:S1192-"JDefine a constant instead of duplicating this literal "Dequeue: " 4 times.(ÚİÊáùÿÿÿÿ
+k
+java:S1149	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(–‹¬¦şÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ÿ„¾¯şÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(»ıéŠùÿÿÿÿ
+E	java:S106-"+Replace this use of System.out by a logger.(ÚİÊáùÿÿÿÿ
+E	java:S106."+Replace this use of System.out by a logger.(ÚİÊáùÿÿÿÿ
+L	java:S106/"+Replace this use of System.out by a logger.(ÚİÊáùÿÿÿÿ8³Ã›ı1
+L	java:S1060"+Replace this use of System.out by a logger.(ÚİÊáùÿÿÿÿ8®†Æ›ı1

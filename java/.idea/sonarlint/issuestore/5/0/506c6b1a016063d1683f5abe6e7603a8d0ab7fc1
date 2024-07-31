@@ -1,0 +1,9 @@
+
+L
+java:S10666"/Merge this if statement with the enclosing one.(˜ÑÅô8Ïƒëºÿ1
+h	java:S116"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ìò8›¸İÒô1
+L	java:S106^"+Replace this use of System.out by a logger.(Ì¤Úßúÿÿÿÿ8ÿµ«Óô1
+L	java:S106_"+Replace this use of System.out by a logger.(±¦íùÿÿÿÿ8ÿµ«Óô1
+G	java:S106`"+Replace this use of System.out by a logger.(À‘øª8‡ş½Óô1
+L	java:S106a"+Replace this use of System.out by a logger.(ÌŞŠşÿÿÿÿ8üíºÿ1
+G	java:S106b"+Replace this use of System.out by a logger.(¢¸Ëş8©Âíºÿ1

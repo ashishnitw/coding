@@ -1,0 +1,11 @@
+
+r
+java:S1104"PMake data a static final constant or non-public and provide accessors if needed.(ÅÖÔ´ùÿÿÿÿ8Š­ˆÌö1
+m
+java:S1104"PMake next a static final constant or non-public and provide accessors if needed.(îçÒÓ8‚ÈˆÌö1
+m
+java:S1104"PMake head a static final constant or non-public and provide accessors if needed.(‚‹ºğ8Îÿ‡Ìö1
+_
+java:S2259D"BA "NullPointerException" could be thrown; "prev" is nullable here.(ÔûÈº8ß‚†•ô1
+L	java:S106"+Replace this use of System.out by a logger.(Åæ°‹úÿÿÿÿ8âµ¸”ô1
+L	java:S106"+Replace this use of System.out by a logger.(Âû¯Ğüÿÿÿÿ8ãµ¸”ô1

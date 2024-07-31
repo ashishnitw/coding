@@ -1,0 +1,8 @@
+
+G	java:S106
+"+Replace this use of System.out by a logger.(†˜–½8ŸÈ“º‚2
+O
+java:S1172"2Remove these unused method parameters "nums", "k".(Æ¦8Õâ´º‚2
+M
+java:S1168"+Return an empty collection instead of null.(âè²ÿşÿÿÿÿ8Õâ´º‚2
+]	java:S125"<This block of commented-out lines of code should be removed.(âè²ÿşÿÿÿÿ8Õâ´º‚2
