@@ -32,7 +32,6 @@ public class BinaryTree {
     }
 
     public void delete(int value) {
-
     }
 
     public static int height(BTNode root) {

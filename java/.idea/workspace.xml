@@ -5,29 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e8575e4-befd-436e-871d-333aac661100" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0ab455b8e9defb6afdbef22031e8cb0115d1de00" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/370cdc94cc8d60174c8026d57dfc2b2702f07d6c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c7c2b15cd90c79cd97d2c0d8bb16207646450b95" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/a/0ab455b8e9defb6afdbef22031e8cb0115d1de00" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/7/370cdc94cc8d60174c8026d57dfc2b2702f07d6c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/7/c7c2b15cd90c79cd97d2c0d8bb16207646450b95" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cses/cses.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cses/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projecteuler/projecteuler.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projecteuler/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/backtracking/Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/backtracking/Subsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/bit/HammingDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/bit/problems/HammingDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/bit/SortByNumberOf1Bits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/bit/problems/SortByNumberOf1Bits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/tree/binarytree/implementation/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/tree/binarytree/implementation/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/tree/binarytree/problems/LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/tree/binarytree/problems/LowestCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/tree/bst/implementation/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/tree/bst/implementation/BST.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +33,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2fioeGDDB2zcfVo6H3UVj1oh2OK" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -56,40 +44,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BST.executor": "Run",
+    "Application.Basics.executor": "Run",
+    "Application.CountBits.executor": "Run",
+    "Application.DesignBoundedBlockingQueue.executor": "Run",
+    "Application.EmployeeFreeTime (1).executor": "Run",
+    "Application.EmployeeFreeTime.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.LastStoneWeight2.executor": "Run",
+    "Application.LowestCommonManager.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.Microsoft.executor": "Run",
+    "Application.ReverseLinkedList.executor": "Run",
+    "Application.StringsDifferByOneCharacter.executor": "Run",
+    "Application.Subsets.executor": "Run",
+    "Application._386_LexicographicalNumbers.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ashishranjan/Downloads/work/github/coding/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/datastructures/tree/segmenttree" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="interview.angelone" />
+      <recent name="leetcode.medium" />
       <recent name="algorithms.backtracking" />
       <recent name="datastructures.queue.implementation" />
       <recent name="datastructures.tree.bst.problems" />
-      <recent name="datastructures.tree.binarytree.problems" />
-      <recent name="datastructures.array.problems" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UniquePathsWithObstacles">
-    <configuration name="PrintAllPathsBetween2Vertices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.backtracking.PrintAllPathsBetween2Vertices" />
+  <component name="RunManager" selected="Application.CountBits">
+    <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.bit.basics.Basics" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.backtracking.*" />
+          <option name="PATTERN" value="algorithms.bit.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructures.linkedlist.problems.ReverseLinkedList" />
+    <configuration name="CountBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.bit.problems.CountBits" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructures.linkedlist.problems.*" />
+          <option name="PATTERN" value="algorithms.bit.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNodesInKGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructures.linkedlist.problems.ReverseNodesInKGroup" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.sorting.InsertionSort" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructures.linkedlist.problems.*" />
+          <option name="PATTERN" value="algorithms.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubarraySumK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructures.array.problems.SubarraySumK" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.sorting.MergeSort" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructures.array.problems.*" />
+          <option name="PATTERN" value="algorithms.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniquePathsWithObstacles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.dp.UniquePathsWithObstacles" />
+    <configuration name="Microsoft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.bit.problems.Microsoft" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.dp.*" />
+          <option name="PATTERN" value="algorithms.bit.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UniquePathsWithObstacles" />
-        <item itemvalue="Application.ReverseNodesInKGroup" />
-        <item itemvalue="Application.ReverseLinkedList" />
-        <item itemvalue="Application.SubarraySumK" />
-        <item itemvalue="Application.PrintAllPathsBetween2Vertices" />
+        <item itemvalue="Application.CountBits" />
+        <item itemvalue="Application.Microsoft" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.Basics" />
       </list>
     </recent_temporary>
   </component>

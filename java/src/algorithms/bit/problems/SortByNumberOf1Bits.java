@@ -1,7 +1,6 @@
-package algorithms.bit;
+package algorithms.bit.problems;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
 public class SortByNumberOf1Bits {
     public static void main(String[] args) {

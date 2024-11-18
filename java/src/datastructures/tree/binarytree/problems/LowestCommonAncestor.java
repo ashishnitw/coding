@@ -29,6 +29,7 @@ public class LowestCommonAncestor {
         System.out.println(lowestCommonAncestor(root, root.left, root.left.right.right).data); // 5
     }
 
+    // Time complexity: O(n)
     private static BTNode lowestCommonAncestor(BTNode root, BTNode a, BTNode b) {
         if (root == null)
             return null;

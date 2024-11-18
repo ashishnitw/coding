@@ -1,4 +1,4 @@
-package algorithms.bit;
+package algorithms.bit.problems;
 
 public class HammingDistance {
     public static void main(String[] args) {

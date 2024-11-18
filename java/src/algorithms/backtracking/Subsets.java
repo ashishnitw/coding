@@ -11,25 +11,26 @@ import java.util.List;
  * */
 public class Subsets {
 
-    public static void main(String[] args) {
-        int[] nums = {1, 2, 3};
-        System.out.println(subsets(nums));
-    }
-
-    private static List<List<Integer>> subsets(int[] nums) {
+    private static List<List<Integer>> subsets(int[] arr) {
         List<List<Integer>> res = new ArrayList<>();
-        backtrack(res, new ArrayList<>(), nums, 0);
+        backtrack(res, new ArrayList<>(), arr, 0);
         return res;
     }
 
-    private static void backtrack(List<List<Integer>> res, ArrayList<Integer> curr, int[] nums, int idx) {
+    private static void backtrack(List<List<Integer>> res, ArrayList<Integer> curr, int[] arr, int idx) {
         res.add(new ArrayList<>(curr));  // Add the current subset to the result
-        for (int i = idx; i < nums.length; i++) {
-            curr.add(nums[i]);
-            System.out.println("Added: " + nums[i] + " -> " + curr);
-            backtrack(res, curr, nums, i + 1);
+        for (int i = idx; i < arr.length; i++) {
+            curr.add(arr[i]);
+            //System.out.println("Added: " + nums[i] + " -> " + curr);
+            backtrack(res, curr, arr, i + 1);
             curr.remove(curr.size() - 1);
-            System.out.println("Removed: " + nums[i] + " -> " + curr);
+            //System.out.println("Removed: " + nums[i] + " -> " + curr);
         }
+        System.out.println(curr);
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {1, 2, 3};
+        System.out.println(subsets(arr));
     }
 }
